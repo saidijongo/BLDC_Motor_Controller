@@ -11,3 +11,7 @@ PAS/CADENCE VS TORQUE SENSOR
 2.https://www.ebikes.ca/learn/pedal-assist.html
 3.https://ebikes.ca/learn/pedal-assist.html#methods-of-torque-sensing
 
+How to make torque sensor with Piezoelectric Sensor[Paper]
+1.https://www.mdpi.com/1996-1944/14/24/7695
+2.
+
