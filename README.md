@@ -9,5 +9,5 @@ https://ebikes.ca/tools/simulator.html
 PAS/CADENCE VS TORQUE SENSOR
 1.https://www.ebicycles.com/torque-vs-cadence-ebike-sensors/
 2.https://www.ebikes.ca/learn/pedal-assist.html
-3.
+3.https://ebikes.ca/learn/pedal-assist.html#methods-of-torque-sensing
 
