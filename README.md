@@ -17,3 +17,5 @@ How to make torque sensor with Piezoelectric Sensor[Paper]
 1.https://www.mdpi.com/1996-1944/14/24/7695
 2.
 
+ESP32 ebike circuit
+https://opensourceebike.github.io/build_EBike_Bafang_M500/build_EBike_board/build_EBike_board.html
